@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15508" systemVersion="19B88" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Favorite" representedClassName="Favorite" syncable="YES" codeGenerationType="class">
+        <attribute name="artistStr" optional="YES" attributeType="String"/>
+        <attribute name="idTrack" optional="YES" attributeType="String"/>
+        <attribute name="intDuration" optional="YES" attributeType="String"/>
+        <attribute name="intTrackNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="isFavorite" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="strTrack" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Favorite" positionX="-54" positionY="-9" width="128" height="133"/>
+    </elements>
+</model>
